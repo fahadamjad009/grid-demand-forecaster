@@ -7,7 +7,7 @@
 
 Short-term electricity demand forecasting for the NSW1 region of Australia's National Electricity Market (NEM), using AEMO's free public price/demand data and Open-Meteo weather history.
 
-**Live demo:** _(add your Streamlit Cloud URL after deploying)_
+**Live demo:** https://grid-demand-forecaster.streamlit.app
 
 ## Business context
 Grid operators and energy retailers need accurate short-term demand forecasts for dispatch planning, price-risk management, and renewable integration. This project builds a daily demand forecaster, validates it honestly against classical time-series baselines, and explores the seasonal, intraday, and price-demand dynamics that drive NEM load.

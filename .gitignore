@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.cache_weather*
+data/raw/
+.streamlit/secrets.toml
